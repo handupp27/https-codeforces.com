@@ -1,0 +1,11 @@
+//279802036	Sep/04/2024 22:34UTC+10	handupp27	100 - A+B	GNU C11	Accepted	46 ms	0 KB
+#include<stdio.h>
+int main()
+{
+	int a,b;
+	scanf("%d %d",&a,&b);
+	printf("%d", a + b);
+
+	return 0;
+
+}
